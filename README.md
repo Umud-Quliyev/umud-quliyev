@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umud Quliyev</h1>
 <h3 align="center">A student of frontend developer from Azerbaijan</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif")
+<img> align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umud-quliyev&label=Profile%20views&color=0e75b6&style=flat" alt="umud-quliyev" /> </p>
 
