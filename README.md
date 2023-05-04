@@ -28,4 +28,4 @@ I am a Full Stack Developer student from Azerbaijan <img src="https://media.giph
 
 - :zap: In my free time, I write code and practice in my spare time.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/umud-quliyev)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-umudquliyev-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/umud-quliyev)
