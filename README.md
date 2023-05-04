@@ -10,4 +10,6 @@
     <img src="https://img.shields.io/badge/İnstagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="İnstagram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div id="github" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Umud-Quliyev&style=flat-square&color=blue" alt=""/>
+</div>
