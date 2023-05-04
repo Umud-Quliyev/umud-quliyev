@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umud Quliyev</h1>
 <h3 align="center">A student of frontend developer from Azerbaijan</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umud-quliyev&label=Profile%20views&color=0e75b6&style=flat" alt="umud-quliyev" /> </p>
 
